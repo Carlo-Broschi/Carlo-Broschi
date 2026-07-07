@@ -38,3 +38,5 @@ Comparative methodology and the problem of reference in biological and linguisti
 
 Bioinformatics: `MAFFT` · `IQ-TREE` · `MrBayes` · `ESMFold` · `Foldseek`  
 Statistics: `brms` · `Stan` · measurement modeling  
+Formal linguistics (DELPH-IN): `LinGO Grammar Matrix` · `ACE` · `LKB-FOS` · `TDL` · `MRS` · `pydelphin`  
+Constraint-based formalization: `ALE` · `SWI-Prolog` · `FCG`  
