@@ -37,6 +37,6 @@ Comparative methodology and the problem of reference in biological and linguisti
 `Python` · `R` · `Stan` · `SQLite` · `Prolog` · `Lisp`
 
 Bioinformatics: `MAFFT` · `IQ-TREE` · `MrBayes` · `ESMFold` · `Foldseek`  
-Statistics: `brms` · `Stan` · measurement modeling  
+Statistics: `brms` · `Stan` · `lavaan`  
 Formal linguistics (DELPH-IN): `LinGO Grammar Matrix` · `ACE` · `LKB-FOS` · `TDL` · `MRS` · `pydelphin`  
-Constraint-based formalization: `ALE` · `SWI-Prolog` · `FCG`  
+Constraint-based formalization: `ALE` · `FCG`  
