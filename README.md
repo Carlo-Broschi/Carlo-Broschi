@@ -14,7 +14,7 @@ I am working toward a series of papers across four domains, written as a single 
 Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea. Methods: structural alignment, Bayesian inference, maximum likelihood.
 
 **Linguistic typology**
-Quantitative reanalysis of cross-linguistic databases (Grambank, WALS) with attention to measurement invariance, sampling bias, and Bayesian contact modeling. Separate line of work on the formal representation of grammatical phenomena, including subject selection and modality, within algebraic and logic-based frameworks.
+Quantitative reanalysis of cross-linguistic databases (Grambank, WALS, AUTOTYP) with attention to measurement invariance, sampling bias, and Bayesian contact modeling. Separate line of work on the formal representation of grammatical phenomena, including subject selection and modality, within algebraic and logic-based frameworks.
 
 **Historical musicology**
 The transition from the castrato to the countertenor in Western art music: a two-axis argument distinguishing vocal mechanism (discontinuity) from repertoire and function (continuity). Alfred Deller as the hinge figure. Target venue: *Early Music* (OUP).
