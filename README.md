@@ -1,6 +1,8 @@
 # Carlo Broschi
 
-Independent researcher working at the intersection of computational biology, linguistic typology, and historical musicology.
+Independent researcher. Nineteen papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io/v2](https://carlo-broschi.github.io/v2/)
+
+The programme has a single deep motivation: **evolution**. Biological structures change, languages drift, musical traditions transform — and yet comparison across these changes is both indispensable and philosophically fraught. The recurring question is what persists through change, and under what conditions persistence licenses comparison.
 
 My account name comes from **Carlo Maria Broschi (1705–1782)** — the castrato known as Farinelli, and the subject of one of my ongoing research lines.
 
@@ -8,19 +10,20 @@ My account name comes from **Carlo Maria Broschi (1705–1782)** — the castrat
 
 ## Research
 
-I am working toward a series of papers across four domains, written as a single author.
-
 **Molecular phylogenetics**
-Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea. Methods: structural alignment, Bayesian inference, maximum likelihood.
+Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea (`bio-a`, `bio-b`, `bio-c`). Separate line on the evolution of the Hfq regulatory regime via reaction-kinetics modelling and ancestral sequence reconstruction (`bio-e`).
 
 **Linguistic typology**
-Quantitative reanalysis of cross-linguistic databases (Grambank, WALS, AUTOTYP) with attention to measurement invariance, sampling bias, and Bayesian contact modeling. Separate line of work on the formal representation of grammatical phenomena, including subject selection and modality, within algebraic and logic-based frameworks.
+Quantitative reanalysis of Grambank, WALS, and AUTOTYP: NeighborNet phylogenetics, Bayesian per-feature transmission estimation, and measurement invariance testing via differential item functioning (`lang-a1`, `lang-a2`, `lang-a3`). The comparability problem raised here connects to Domain V.
+
+**Grammatical formalization**
+Formal representation of grammatical phenomena within typed feature structures and unification. Papers address subject selection in case grammar, redesign of Fillmore's Modality node as an operator category, switch-reference in Construction Grammar, and the meta-theoretical justification of RRG's Operator Projection for conditional typology (`lang-b1`, `lang-b2a`, `lang-b2b`, `lang-c`, `lang-d`, `lang-e`). Verified independently with the DELPH-IN ecosystem and ALE on SWI-Prolog.
 
 **Historical musicology**
-The transition from the castrato to the countertenor in Western art music: a two-axis argument distinguishing vocal mechanism (discontinuity) from repertoire and function (continuity). Alfred Deller as the hinge figure. Target venue: *Early Music* (OUP).
+The transition from the castrato to the countertenor in Western art music: a two-axis argument distinguishing vocal mechanism (discontinuity) from repertoire and institutional function (continuity). Alfred Deller as the hinge figure (`music-a`, `music-b`).
 
 **Philosophy of science**
-Comparative methodology and the problem of reference in biological and linguistic systematics. Developed in dialogue with the philosophy of special sciences.
+Persistently Reproducible Modules — biological structures whose organisation evolution reliably reconstructs across independent lineages — as a formalization of de Duve's "frozen accidents" (`phd-a`, `phd-b`, `phil-b`, `phil-c`). Companion work on comparability and reference across the special sciences, connected to the typology and biology programmes (`phil-a`, `stat-a`).
 
 ---
 
@@ -38,5 +41,5 @@ Comparative methodology and the problem of reference in biological and linguisti
 
 Bioinformatics: `MAFFT` · `IQ-TREE` · `MrBayes` · `ESMFold` · `Foldseek`  
 Statistics: `brms` · `Stan` · `lavaan`  
-Formal linguistics (DELPH-IN): `LinGO Grammar Matrix` · `ACE` · `LKB-FOS` · `TDL` · `MRS` · `pydelphin`  
-Constraint-based formalization: `ALE` · `FCG`  
+DELPH-IN: `LinGO Grammar Matrix` · `ACE` · `LKB-FOS` · `TDL` · `MRS` · `pydelphin`  
+Formalization: `ALE` · `SWI-Prolog` · `FCG`
