@@ -1,6 +1,6 @@
 # Carlo Broschi
 
-Independent researcher. Nineteen papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io/v2](https://carlo-broschi.github.io/v2/)
+Independent researcher. Twenty-two papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io/v2](https://carlo-broschi.github.io/v2/)
 
 The programme has a single deep motivation: **evolution**. Biological structures change, languages drift, musical traditions transform — and yet comparison across these changes is both indispensable and philosophically fraught. The recurring question is what persists through change, and under what conditions persistence licenses comparison.
 
@@ -17,7 +17,7 @@ Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of
 Quantitative reanalysis of Grambank, WALS, and AUTOTYP: NeighborNet phylogenetics, Bayesian per-feature transmission estimation, and measurement invariance testing via differential item functioning (`lang-a1`, `lang-a2`, `lang-a3`). The comparability problem raised here connects to Domain V.
 
 **Grammatical formalization**
-Formal representation of grammatical phenomena within typed feature structures and unification. Papers address subject selection in case grammar, redesign of Fillmore's Modality node as an operator category, switch-reference in Construction Grammar, and the meta-theoretical justification of RRG's Operator Projection for conditional typology (`lang-b1`, `lang-b2a`, `lang-b2b`, `lang-c`, `lang-d`, `lang-e`). Verified independently with the DELPH-IN ecosystem and ALE on SWI-Prolog.
+Formal representation of grammatical phenomena within typed feature structures and unification. Papers address subject selection in case grammar, redesign of Fillmore's Modality node as an operator category, switch-reference in Construction Grammar, and the meta-theoretical justification of RRG's Operator Projection for conditional typology (`lang-b1`, `lang-b2a`, `lang-b2b`, `lang-b3`, `lang-c`, `lang-d`, `lang-e`). Two executable companions run these distinctions bidirectionally in Fluid Construction Grammar — a runnable grammar of the Japanese conditional paradigm (`lang-f`) and a naming-game model of how a switch-reference convention can emerge (`lang-g`) — while a synthesis project (`lang-b3`) integrates the subject-selection and modality work into one modernized, TFS-realized case grammar. Verified independently with the DELPH-IN ecosystem and ALE on SWI-Prolog.
 
 **Historical musicology**
 The transition from the castrato to the countertenor in Western art music: a two-axis argument distinguishing vocal mechanism (discontinuity) from repertoire and institutional function (continuity). Alfred Deller as the hinge figure (`music-a`, `music-b`).
