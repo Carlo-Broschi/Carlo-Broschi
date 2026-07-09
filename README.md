@@ -11,7 +11,7 @@ My account name comes from **Carlo Maria Broschi (1705–1782)** — the castrat
 ## Research
 
 **Molecular phylogenetics**
-Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea (`bio-a`, `bio-b`, `bio-c`). Separate line on the evolution of the Hfq regulatory regime via reaction-kinetics modelling and ancestral sequence reconstruction (`bio-e`).
+Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea (`bio-a`, `bio-b`, `bio-c`). Separate line on the evolution of the Hfq regulatory regime via reaction-kinetics modelling and ancestral sequence reconstruction (`bio-d`).
 
 **Linguistic typology**
 Quantitative reanalysis of Grambank, WALS, and AUTOTYP: NeighborNet phylogenetics, Bayesian per-feature transmission estimation, and measurement invariance testing via differential item functioning (`lang-a1`, `lang-a2`, `lang-a3`). The comparability problem raised here connects to Domain V.
