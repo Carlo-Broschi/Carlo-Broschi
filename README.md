@@ -1,6 +1,6 @@
 # Carlo Broschi
 
-Independent researcher. Twenty-two papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io/v2](https://carlo-broschi.github.io/v2/)
+Independent researcher. Twenty-two papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io](https://carlo-broschi.github.io/)
 
 The programme has a single deep motivation: **evolution**. Biological structures change, languages drift, musical traditions transform — and yet comparison across these changes is both indispensable and philosophically fraught. The recurring question is what persists through change, and under what conditions persistence licenses comparison.
 
