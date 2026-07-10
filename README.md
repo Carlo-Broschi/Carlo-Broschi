@@ -1,6 +1,6 @@
 # Carlo Broschi
 
-Independent researcher. Twenty-two papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io](https://carlo-broschi.github.io/)
+Independent researcher. Twenty-three papers in progress, written as a single author, across five domains. Portal: [carlo-broschi.github.io](https://carlo-broschi.github.io/)
 
 The programme has a single deep motivation: **evolution**. Biological structures change, languages drift, musical traditions transform — and yet comparison across these changes is both indispensable and philosophically fraught. The recurring question is what persists through change, and under what conditions persistence licenses comparison.
 
@@ -13,11 +13,15 @@ My account name comes from **Carlo Maria Broschi (1705–1782)** — the castrat
 **Molecular phylogenetics**
 Tracing the evolutionary fate of the Sm/Lsm/Hfq fold across the three domains of life, with a focus on genome reduction in bacterial obligate symbionts and DPANN/Asgard archaea (`bio-a`, `bio-b`, `bio-c`). Separate line on the evolution of the Hfq regulatory regime via reaction-kinetics modelling and ancestral sequence reconstruction (`bio-d`).
 
-**Linguistic typology**
-Quantitative reanalysis of Grambank, WALS, and AUTOTYP: NeighborNet phylogenetics, Bayesian per-feature transmission estimation, and measurement invariance testing via differential item functioning (`lang-a1`, `lang-a2`, `lang-a3`). The comparability problem raised here connects to Domain V.
+In linguistics the question takes a sharper shape: **one problem, comparability, worked from both sides at once** — measuring whether a cross-linguistic comparison is sound, and rebuilding, in a form that runs and can be refuted, the grammatical categories that comparison depends on.
 
-**Grammatical formalization**
-Formal representation of grammatical phenomena within typed feature structures and unification. Papers address subject selection in case grammar, redesign of Fillmore's Modality node as an operator category, switch-reference in Construction Grammar, and the meta-theoretical justification of RRG's Operator Projection for conditional typology (`lang-b1`, `lang-b2a`, `lang-b2b`, `lang-b3`, `lang-c`, `lang-d1`, `lang-e1`). Two executable companions run these distinctions bidirectionally in Fluid Construction Grammar — a runnable grammar of the Japanese conditional paradigm (`lang-e2`) and a naming-game model of how a switch-reference convention can emerge (`lang-d2`) — while a synthesis project (`lang-b3`) integrates the subject-selection and modality work into one modernized, TFS-realized case grammar. Verified independently with the DELPH-IN ecosystem and ALE on SWI-Prolog.
+**Linguistic typology — measuring comparability**
+Quantitative reanalysis of Grambank, WALS, and AUTOTYP: NeighborNet phylogenetics, Bayesian per-feature transmission estimation, and measurement invariance testing via differential item functioning (`lang-a1`, `lang-a2`, `lang-a3`). A large share of Grambank features show differential item functioning across macroareas: comparability is a measurable, improvable property, not a background assumption. The problem raised here connects to Domain V.
+
+**Grammatical formalization — building comparable categories**
+The categories comparison depends on — subject selection, modality, case — rebuilt as one modernized, typed-feature-structure realization of Fillmore's Case Grammar, required to run on a grammar engine and to be falsifiable (`lang-b1`, `lang-b2a`, `lang-b2b`, `lang-b3`, `lang-c`). The apparatus is then put to work on contested cases: a feature-structure adjudication of the reference-tracking debate in switch-reference (`lang-d1`), and an argument that operator scope and clause-linkage juncture are two independent, cross-classifying axes in the typology of conditionals (`lang-e1`). Each case is treated twice, static and dynamic — an executable, bidirectional Fluid Construction Grammar of the Japanese conditional paradigm (`lang-e2`), and naming-game models of how a switch-reference convention (`lang-d2`), or the conditional paradigm itself (`lang-e3`), can emerge — under a standing rule that a grammar which runs is never a theory proved. Verified with the DELPH-IN ecosystem and, independently, ALE on SWI-Prolog.
+
+The stance is that of a formalist who takes the anti-formalist critique seriously: the problem and the discipline come from functional typology — comparative concepts, coding versus behaviour, areal and genealogical non-independence — while the renunciation of formal apparatus does not. Falsification conditions are stated in the critics' own terms.
 
 **Historical musicology**
 The transition from the castrato to the countertenor in Western art music: a two-axis argument distinguishing vocal mechanism (discontinuity) from repertoire and institutional function (continuity). Alfred Deller as the hinge figure (`music-a`, `music-b`).
